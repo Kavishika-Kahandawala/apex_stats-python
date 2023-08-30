@@ -1,6 +1,6 @@
 # Apex Legends Stats Tracker - python
 
-A Simple Stats shower for Apex Legends I made for fun
+A Simple Stats shower for Apex Legends I made for fun.
 
 ![apex-featured-image-16x9 jpg adapt crop16x9 1023w](https://github.com/Kavishika-Kahandawala/apex_stats-python/assets/25774028/0d99542d-85d5-460a-8f9a-4cce4d6ef996)
 
